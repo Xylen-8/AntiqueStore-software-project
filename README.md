@@ -208,7 +208,7 @@ This project is open-source under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Jaipal Prakash**
+**Satyam Raj**
 AntiqueHub Project
 
 ---
